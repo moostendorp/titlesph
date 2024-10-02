@@ -1,0 +1,43 @@
+Use-Cases for Version 1.0 (with Updated Services)
+
+Use Case 1: User Visits the Landing Page
+
+Scenario: A potential client lands on the homepage after clicking a link, visiting from a referral, or typing the URL.
+Actions:
+
+User sees the hero section with a headline explaining your services.
+User reads the brief descriptions of Title Transfer, Title Verification, Property Recon, and Property Analysis.
+User is encouraged to click the “Request a Consultation” button or explore more about the services by clicking “Learn More”.
+Outcome: The user gets an immediate understanding of your services and knows where to go if they want to learn more or request a consultation.
+
+Use Case 2: User Requests a Consultation
+
+Scenario: The user is interested in your services and wants to initiate contact.
+Actions:
+
+User clicks “Request a Consultation”, which scrolls them down to the contact form.
+User fills in their name, email, and message with details about their inquiry (e.g., title transfer, title verification, property inspection).
+User submits the form by clicking “Submit”.
+Outcome: The form captures the user’s information, which is sent to you via email or stored in a simple backend, and the user receives confirmation that their request has been received.
+
+Use Case 3: User Reads About Services
+
+Scenario: A visitor wants to understand what specific services you offer.
+
+Actions:
+
+User scrolls down to the Services Section, where they read brief descriptions of Title Transfer, Title Verification, Property Recon, and Property Analysis.
+User clicks on “Learn More” next to one of the services to view additional details (optional in this version, could be expanded in future releases).
+Outcome: The user gains a better understanding of the services and may decide to submit an inquiry through the contact form.
+Use Case 4: User Navigates Footer
+Scenario: A potential client scrolls to the bottom of the page to look for additional information.
+Actions:
+User sees the PRC License Numbers in the footer for added credibility.
+User may click links to Privacy, Terms, or Contact Info (if included as links).
+Outcome: The user confirms your legitimacy and trusts that your service is backed by proper credentials.
+Key Features for Version 1.0:
+Hero Section: Clearly communicates your role as an independent licensed consultant and appraiser.
+Updated Services Overview: Short descriptions of your core services: Title Transfer, Title Verification, Property Recon, and Property Analysis.
+Call-to-Action: A single “Request a Consultation” button guiding users to the contact form.
+Contact Form: Basic form capturing user inquiries with name, email, and message fields.
+Footer with PRC License: Displaying your PRC License numbers to build trust with visitors.

@@ -1,0 +1,40 @@
+ --------------------------------------------------------
+| Titles.ph                                              |
+ --------------------------------------------------------
+|                                                     |
+|   [ Hero Section - Full Image Background ]           |
+|   ------------------------------------------------  |
+|   | Independent Licensed Consultant and Appraiser   |
+|   | Unbiased Property Recon & Title Verification    |
+|   | Professional and objective advice for buyers.   |
+|   | [Request a Consultation]                        |
+|   ------------------------------------------------  |
+|                                                     |
+|   [ Services Overview Section ]                     |
+|   ------------------------------------------------  |
+|   | Title Transfer: Full assistance in transferring | 
+|   | property titles.                               |
+|   ------------------------------------------------  |
+|   | Title Verification: Ensure your title is clean  |
+|   | and legitimate.                                |
+|   ------------------------------------------------  |
+|   | Property Recon: Full inspection and report      |
+|   | on any property before purchase.               |
+|   ------------------------------------------------  |
+|   | Property Analysis: Detailed analysis of your    |
+|   | property's market value and condition.          |
+|   ------------------------------------------------  |
+|                                                     |
+ --------------------------------------------------------
+| [Contact Form]                                        |
+|   ------------------------------------------------  |
+|   Name: [Input Field]                                 |
+|   Email: [Input Field]                                |
+|   Message: [Textarea]                                 |
+|   [Submit Button]                                     |
+|   ------------------------------------------------  |
+ --------------------------------------------------------
+| Footer: Privacy | Terms | Contact Info | PRC License  |
+| PRC License # for Real Estate Consultant: XXXXXXX     |
+| PRC License # for Real Estate Appraiser: YYYYYYY      |
+ --------------------------------------------------------
