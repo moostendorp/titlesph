@@ -60,17 +60,17 @@ body {
     margin-bottom: 1.5rem;
 }
 
-.cta-button {
-    background-color: #007bff;
-    color: white;
-    padding: 1rem 2rem;
-    text-decoration: none;
-    font-size: 1.25rem;
-    border-radius: 5px;
+a.cta-button {
     display: inline-block;
+    background-color: white;
+    color: 007bff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
 }
 
-.cta-button:hover {
+a.cta-button:hover {
     background-color: #0056b3;
 }
 
