@@ -1,0 +1,183 @@
+/* General Styling */
+/* Centering Container for Content */
+.container {
+    max-width: 800px;
+    margin: 0 auto;  /* Centers the content horizontally */
+    padding: 20px;
+    text-align: left;  /* Keeps the text left-aligned */
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    font-size: 16px;
+}
+
+/* Header with Logo */
+.main-header {
+    background-color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+.main-header .logo img {
+    max-width: 150px;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+p, li {
+    color: #555;
+}
+
+a.cta-button {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+a.cta-button:hover {
+    background-color: #0056b3;
+}
+
+/* Hero Section */
+.hero {
+    background: url('/hero-desktop4.jpg') no-repeat center center/cover;  
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    padding: 0 1rem;
+    position: relative;
+    z-index: 1;
+}
+
+.hero-content h1 {
+    font-size: 2rem;
+    color:whitesmoke;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Dark shadow for contrast */
+    text-align: center;
+    margin-bottom: 0.5rem;
+   
+}
+
+.hero-content p {
+    font-size: 1.25em;
+    color:whitesmoke;
+    margin-bottom: 30px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Dark shadow for contrast */
+}
+
+/* Service Details Section */
+.service-details {
+    padding: 50px 20px;
+    background-color: #fff;
+}
+
+.service-details h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.service-step h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.service-step p {
+    margin-bottom: 20px;
+}
+
+/* Why Choose Us Section */
+.why-choose-us {
+    padding: 50px 20px;
+    background-color: #f9f9f9;
+}
+
+.why-choose-us ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.why-choose-us li {
+    margin-bottom: 15px;
+    font-size: 1.1em;
+}
+
+.requirements-section ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.requirements-section ul li {
+    margin-bottom: 10px;
+    font-size: 1.1em;
+    display: flex;
+    align-items: center;
+}
+
+.requirements-section ul li input[type="checkbox"] {
+    margin-right: 10px;
+    transform: scale(1.2); /* Make the checkbox a bit larger */
+}
+
+
+/* FAQ Section */
+.faq-section {
+    padding: 50px 20px;
+    background-color: #f9f9f9;
+}
+
+.faq-section h3 {
+    font-size: 1.3em;
+    margin-bottom: 10px;
+}
+
+.faq-section p {
+    margin-bottom: 20px;
+}
+
+/* Call to Action Section */
+.cta-section {
+    padding: 50px 20px;
+    background-color: #fff;
+    text-align: center;
+}
+
+.cta-section h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.cta-section p {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+
+/* Footer */
+.footer {
+    background-color: #343a40;  /* Dark gray background for footer */
+    color: white;  /* Explicitly set the text color to white */
+    text-align: center;
+}
+
+
+footer p {
+    
+    background-color: #343a40;  /* Dark gray background for footer */
+    color: white;  /* Explicitly set the text color to white */
+    text-align: center;
+}
