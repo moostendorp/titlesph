@@ -369,7 +369,17 @@ hr {
     z-index: 1000;  /* Ensures the button stays on top of other elements */
     box-shadow: 0px 4px 6px rgba(0,0,0,0.2);
 }
+/* Position each button differently */
 
+  .floating-btn-appraise {
+    bottom: 80px;
+    right: 20px;
+  }
+
+  .floating-btn-easton {
+    bottom: 140px;
+    right: 20px;
+  }
 .back-home-floating:hover {
     background-color: #0056b3;  /* Darker blue on hover */
 }
