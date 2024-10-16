@@ -358,8 +358,7 @@ hr {
 /* Floating Back to Home Button */
 .back-home-floating {
     position: fixed;
-    bottom: 20px;
-    right: 20px;
+    
     padding: 10px 20px;
     background-color: #007bff;  /* Bright blue background */
     color: white;  /* White text */
@@ -371,6 +370,10 @@ hr {
 }
 /* Position each button differently */
 
+.floating-btn-titles {
+    bottom: 20px;
+    right: 20px;
+  }
   .floating-btn-appraise {
     bottom: 80px;
     right: 20px;
