@@ -358,7 +358,8 @@ hr {
 /* Floating Back to Home Button */
 .back-home-floating {
     position: fixed;
-    
+    bottom: 20px;
+    right: 20px;
     padding: 10px 20px;
     background-color: #007bff;  /* Bright blue background */
     color: white;  /* White text */
@@ -384,6 +385,7 @@ hr {
     right: 20px;
   }
 .back-home-floating:hover {
+
     background-color: #0056b3;  /* Darker blue on hover */
 }
 
