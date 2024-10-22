@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://titles.ph/index.html</loc>
-    <lastmod>2024-10-14</lastmod>
+    <loc>https://titles.ph</loc>
+    <lastmod>2024-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
    <url>
     <loc>https://titles.ph/title-transfer.html</loc>
-    <lastmod>2024-10-14</lastmod>
+    <lastmod>2024-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://titles.ph/title-search.html</loc>
-    <lastmod>2024-10-14</lastmod>
+    <lastmod>2024-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://titles.ph/title-duediligence.html</loc>
-    <lastmod>2024-10-14</lastmod>
+    <lastmod>2024-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://titles.ph/sample-title-duediligence.html</loc>
-    <lastmod>2024-10-14</lastmod>
+    <lastmod>2024-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://titles.ph/sample-titlesearch.html</loc>
-    <lastmod>2024-10-14</lastmod>
+    <lastmod>2024-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://titles.ph/about.html></loc>
-    <lastmod>2024-10-14</lastmod>
+    <loc>https://titles.ph/about.html</loc>
+    <lastmod>2024-10-23</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>1</priority>
   </url>
   <url>
-    <loc>https://titles.ph/privacy.html></loc>
-    <lastmod>2024-10-14</lastmod>
+    <loc>https://titles.ph/privacy.html</loc>
+    <lastmod>2024-10-23</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>1</priority>
   </url>
   <url>
-    <loc>https://titles.ph/terms.html></loc>
-    <lastmod>2024-10-14</lastmod>
+    <loc>https://titles.ph/terms.html</loc>
+    <lastmod>2024-10-23</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>1</priority>
   </url>
 </urlset>
