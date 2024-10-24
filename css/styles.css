@@ -98,16 +98,19 @@ body {
 
 a.cta-button {
     display: inline-block;
-    background-color: #007bff;
+    background-color: #0056b3; /* 007bff    */
     color: white;
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 5px;
+    font-weight:bolder;
     margin-top: 10px;
 }
 
 a.cta-button:hover {
-    background-color: #0056b3;
+    /* background-color: #007bff; /* brand blue: 0056b3, brand yellow: cbac2c */
+    color: #cbac2c;
+   
 }
 .standard h1 {
     font-size: 2.25rem;
